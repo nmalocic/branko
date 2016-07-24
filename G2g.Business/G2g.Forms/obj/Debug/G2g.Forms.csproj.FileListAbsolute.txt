@@ -1,0 +1,17 @@
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\bin\Debug\G2g.Forms.exe.config
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\bin\Debug\G2g.Forms.exe
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\bin\Debug\G2g.Forms.pdb
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\obj\Debug\G2g.Forms.csprojResolveAssemblyReference.cache
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\obj\Debug\G2g.Forms.Form1.resources
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\obj\Debug\G2g.Forms.Properties.Resources.resources
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\obj\Debug\G2g.Forms.csproj.GenerateResource.Cache
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\obj\Debug\G2g.Forms.exe
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\obj\Debug\G2g.Forms.pdb
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\bin\Debug\G2g.Business.dll
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\bin\Debug\HtmlAgilityPack.dll
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\bin\Debug\ClosedXML.dll
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\bin\Debug\G2g.Business.pdb
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\bin\Debug\HtmlAgilityPack.pdb
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\bin\Debug\HtmlAgilityPack.xml
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Forms\bin\Debug\ClosedXML.xml

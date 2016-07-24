@@ -1,0 +1,247 @@
+544,Aegwynn
+545,Aerie Peak
+546,Agamaggan
+547,Aggra
+548,Aggramar
+549,Ahn'Qiraj
+550,Al'Akir
+551,Alexstrasza
+552,Alleria
+553,Alonsus
+554,Aman'Thul
+555,Ambossar
+556,Anachronos
+557,Anetheron
+558,Antonidas
+559,Anub'arak
+560,Arak-arahm
+561,Arathi
+562,Arathor
+563,Archimonde
+564,Area 52
+565,Argent Dawn
+566,Arthas
+567,Arygos
+568,Aszune
+569,Auchindoun
+570,Azjol-Nerub
+571,Azshara
+572,Azuremyst
+573,Baelgun
+574,Balnazzar
+575,Blackhand
+576,Blackmoore
+577,Blackrock
+578,Blade's Edge
+579,Bladefist
+580,Bloodfeather
+581,Bloodhoof
+582,Bloodscalp
+583,Blutkessel
+584,Boulderfist
+585,Bronze Dragonflight
+586,Bronzebeard
+587,Burning Blade
+588,Burning Legion
+589,Burning Steppes
+590,C'Thun
+591,Chamber of Aspects
+592,Chants éternels
+593,Cho'gall
+594,Chromaggus
+595,Colinas Pardas
+596,Confrérie du Thorium
+597,Conseil des Ombres
+598,Crushridge
+599,Cultedela Rivenoire
+600,Daggerspine
+601,Dalaran
+602,Dalvengyr
+603,Darkmoon Faire
+604,Darksorrow
+605,Darkspear
+606,Das Konsortium
+607,Das Syndikat
+608,Deathwing
+609,Defias Brotherhood
+610,Dentarg
+611,Der abyssische Rat
+612,Der Mithrilorden
+613,Der Rat von Dalaran
+614,Destromath
+615,Dethecus
+616,Die Aldor
+617,Die Arguswacht
+618,Die ewige Wacht
+619,Die Nachtwache
+620,Die Silberne Hand
+621,Die Todeskrallen
+622,Doomhammer
+623,Draenor
+624,Dragonblight
+625,Dragonmaw
+626,Drak'thul
+627,Drek'Thar
+628,Dun Modr
+629,Dun Morogh
+630,Dunemaul
+631,Durotan
+632,Earthen Ring
+633,Echsenkessel
+634,Eitrigg
+635,Eldre'Thalas
+636,Elune
+637,Emerald Dream
+638,Emeriss
+639,Eonar
+640,Eredar
+641,Executus
+642,Exodar
+643,Festung der Stürme
+644,Forscherliga
+645,Frostmane
+646,Frostmourne
+647,Frostwhisper
+648,Frostwolf
+649,Garona
+650,Garrosh
+651,Genjuros
+652,Ghostlands
+653,Gilneas
+654,Gorgonnash
+655,Grim Batol
+656,Gul'dan
+657,Hakkar
+658,Haomarush
+659,Hellfire
+660,Hellscream
+661,Hyjal
+662,Illidan
+663,Jaedenar
+664,Kael'Thas
+665,Karazhan
+666,Kargath
+667,Kazzak
+668,Kel'Thuzad
+669,Khadgar
+670,Khaz Modan
+671,Khaz'goroth
+672,Kil'Jaeden
+673,Kilrogg
+674,Kirin Tor
+675,Kor'gall
+676,Krag'jin
+677,Krasus
+678,Kul Tiras
+679,Kult  der Verdammten
+680,La Croisade écarlate
+681,Laughing Skull
+682,Les Clairvoyants
+683,Les Sentinelles
+684,Lightbringer
+685,Lightning's Blade
+686,Lordaeron
+687,Los Errantes
+688,Lothar
+689,Madmortem
+690,Magtheridon
+691,Mal'Ganis
+692,Malfurion
+693,Malorne
+694,Malygos
+695,Mannoroth
+696,Marécagede Zangar
+697,Mazrigos
+698,Medivh
+699,Minahonda
+700,Moonglade
+701,Mug'thol
+702,Nagrand
+703,Nathrezim
+704,Naxxramas
+705,Nazjatar
+706,Nefarian
+707,Nemesis
+708,Neptulon
+709,Ner'zhul
+710,Nera'thor
+711,Nethersturm
+712,Nordrassil
+713,Norgannon
+714,Nozdormu
+715,Onyxia
+716,Outland
+717,Perenolde
+718,Proudmoore
+719,Quel'Thalas
+720,Ragnaros
+721,Rajaxx
+722,Rashgarroth
+723,Ravencrest
+724,Ravenholdt
+725,Rexxar
+726,Runetotem
+727,Sanguino
+728,Sargeras
+729,Saurfang
+730,Scarshield Legion
+731,Sen'jin
+732,Shadowsong
+733,Shattered Halls
+734,Shattered Hand
+735,Shattrath
+736,Shen'dralar
+737,Silvermoon
+738,Sinstralis
+739,Skullcrusher
+740,Spinebreaker
+741,Sporeggar
+742,Steamwheedle Cartel
+743,Stormrage
+744,Stormreaver
+745,Stormscale
+746,Sunstrider
+747,Suramar
+748,Sylvanas
+749,Taerar
+750,Talnivarr
+751,Tarren Mill
+752,Teldrassil
+753,Templenoir
+754,Terenas
+755,Terokkar
+756,Terrordar
+757,The Maelstrom
+758,The Sha'tar
+759,The Venture Co.
+760,Theradras
+761,Thrall
+762,Throk'Feroth
+763,Thunderhorn
+764,Tichondrius
+765,Tirion
+766,Todeswache
+767,Trollbane
+768,Turalyon
+769,Twilight's Hammer
+770,Twisting Nether
+771,Tyrande
+772,Uldaman
+773,Ulduar
+774,Uldum
+775,Un'Goro
+776,Varimathras
+777,Vashj
+778,Vek'lor
+779,Vek'nilash
+780,Vol'jin
+781,Well of Eternity
+782,Wildhammer
+783,Wrathbringer
+784,Xavius
+785,Ysera
+786,Ysondre
+787,Zenedar
+788,Zirkel des Cenarius
+789,Zul'Jin
+790,Zuluhed

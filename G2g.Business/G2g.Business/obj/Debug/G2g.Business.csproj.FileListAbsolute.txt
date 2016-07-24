@@ -1,0 +1,12 @@
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Business\bin\Debug\G2g.Business.dll
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Business\bin\Debug\G2g.Business.pdb
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Business\obj\Debug\G2g.Business.csprojResolveAssemblyReference.cache
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Business\obj\Debug\G2g.Business.dll
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Business\obj\Debug\G2g.Business.pdb
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Business\bin\Debug\HtmlAgilityPack.dll
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Business\bin\Debug\HtmlAgilityPack.pdb
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Business\bin\Debug\HtmlAgilityPack.xml
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Business\bin\Debug\ClosedXML.dll
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Business\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Business\bin\Debug\ClosedXML.xml
+D:\Programiranje\G2gCrawler\G2g.Business\G2g.Business\bin\Debug\G2g.Business.dll.config

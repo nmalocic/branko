@@ -1,0 +1,247 @@
+<add realmId="gold-2522-19248" serverId="544" name="Aegwynn" />
+<add realmId="gold-2522-19248" serverId="545" name="Aerie Peak" />
+<add realmId="gold-2522-19248" serverId="546" name="Agamaggan" />
+<add realmId="gold-2522-19248" serverId="547" name="Aggra" />
+<add realmId="gold-2522-19248" serverId="548" name="Aggramar" />
+<add realmId="gold-2522-19248" serverId="549" name="Ahn'Qiraj" />
+<add realmId="gold-2522-19248" serverId="550" name="Al'Akir" />
+<add realmId="gold-2522-19248" serverId="551" name="Alexstrasza" />
+<add realmId="gold-2522-19248" serverId="552" name="Alleria" />
+<add realmId="gold-2522-19248" serverId="553" name="Alonsus" />
+<add realmId="gold-2522-19248" serverId="554" name="Aman'Thul" />
+<add realmId="gold-2522-19248" serverId="555" name="Ambossar" />
+<add realmId="gold-2522-19248" serverId="556" name="Anachronos" />
+<add realmId="gold-2522-19248" serverId="557" name="Anetheron" />
+<add realmId="gold-2522-19248" serverId="558" name="Antonidas" />
+<add realmId="gold-2522-19248" serverId="559" name="Anub'arak" />
+<add realmId="gold-2522-19248" serverId="560" name="Arak-arahm" />
+<add realmId="gold-2522-19248" serverId="561" name="Arathi" />
+<add realmId="gold-2522-19248" serverId="562" name="Arathor" />
+<add realmId="gold-2522-19248" serverId="563" name="Archimonde" />
+<add realmId="gold-2522-19248" serverId="564" name="Area 52" />
+<add realmId="gold-2522-19248" serverId="565" name="Argent Dawn" />
+<add realmId="gold-2522-19248" serverId="566" name="Arthas" />
+<add realmId="gold-2522-19248" serverId="567" name="Arygos" />
+<add realmId="gold-2522-19248" serverId="568" name="Aszune" />
+<add realmId="gold-2522-19248" serverId="569" name="Auchindoun" />
+<add realmId="gold-2522-19248" serverId="570" name="Azjol-Nerub" />
+<add realmId="gold-2522-19248" serverId="571" name="Azshara" />
+<add realmId="gold-2522-19248" serverId="572" name="Azuremyst" />
+<add realmId="gold-2522-19248" serverId="573" name="Baelgun" />
+<add realmId="gold-2522-19248" serverId="574" name="Balnazzar" />
+<add realmId="gold-2522-19248" serverId="575" name="Blackhand" />
+<add realmId="gold-2522-19248" serverId="576" name="Blackmoore" />
+<add realmId="gold-2522-19248" serverId="577" name="Blackrock" />
+<add realmId="gold-2522-19248" serverId="578" name="Blade's Edge" />
+<add realmId="gold-2522-19248" serverId="579" name="Bladefist" />
+<add realmId="gold-2522-19248" serverId="580" name="Bloodfeather" />
+<add realmId="gold-2522-19248" serverId="581" name="Bloodhoof" />
+<add realmId="gold-2522-19248" serverId="582" name="Bloodscalp" />
+<add realmId="gold-2522-19248" serverId="583" name="Blutkessel" />
+<add realmId="gold-2522-19248" serverId="584" name="Boulderfist" />
+<add realmId="gold-2522-19248" serverId="585" name="Bronze Dragonflight" />
+<add realmId="gold-2522-19248" serverId="586" name="Bronzebeard" />
+<add realmId="gold-2522-19248" serverId="587" name="Burning Blade" />
+<add realmId="gold-2522-19248" serverId="588" name="Burning Legion" />
+<add realmId="gold-2522-19248" serverId="589" name="Burning Steppes" />
+<add realmId="gold-2522-19248" serverId="590" name="C'Thun" />
+<add realmId="gold-2522-19248" serverId="591" name="Chamber of Aspects" />
+<add realmId="gold-2522-19248" serverId="592" name="Chants éternels" />
+<add realmId="gold-2522-19248" serverId="593" name="Cho'gall" />
+<add realmId="gold-2522-19248" serverId="594" name="Chromaggus" />
+<add realmId="gold-2522-19248" serverId="595" name="Colinas Pardas" />
+<add realmId="gold-2522-19248" serverId="596" name="Confrérie du Thorium" />
+<add realmId="gold-2522-19248" serverId="597" name="Conseil des Ombres" />
+<add realmId="gold-2522-19248" serverId="598" name="Crushridge" />
+<add realmId="gold-2522-19248" serverId="599" name="Cultedela Rivenoire" />
+<add realmId="gold-2522-19248" serverId="600" name="Daggerspine" />
+<add realmId="gold-2522-19248" serverId="601" name="Dalaran" />
+<add realmId="gold-2522-19248" serverId="602" name="Dalvengyr" />
+<add realmId="gold-2522-19248" serverId="603" name="Darkmoon Faire" />
+<add realmId="gold-2522-19248" serverId="604" name="Darksorrow" />
+<add realmId="gold-2522-19248" serverId="605" name="Darkspear" />
+<add realmId="gold-2522-19248" serverId="606" name="Das Konsortium" />
+<add realmId="gold-2522-19248" serverId="607" name="Das Syndikat" />
+<add realmId="gold-2522-19248" serverId="608" name="Deathwing" />
+<add realmId="gold-2522-19248" serverId="609" name="Defias Brotherhood" />
+<add realmId="gold-2522-19248" serverId="610" name="Dentarg" />
+<add realmId="gold-2522-19248" serverId="611" name="Der abyssische Rat" />
+<add realmId="gold-2522-19248" serverId="612" name="Der Mithrilorden" />
+<add realmId="gold-2522-19248" serverId="613" name="Der Rat von Dalaran" />
+<add realmId="gold-2522-19248" serverId="614" name="Destromath" />
+<add realmId="gold-2522-19248" serverId="615" name="Dethecus" />
+<add realmId="gold-2522-19248" serverId="616" name="Die Aldor" />
+<add realmId="gold-2522-19248" serverId="617" name="Die Arguswacht" />
+<add realmId="gold-2522-19248" serverId="618" name="Die ewige Wacht" />
+<add realmId="gold-2522-19248" serverId="619" name="Die Nachtwache" />
+<add realmId="gold-2522-19248" serverId="620" name="Die Silberne Hand" />
+<add realmId="gold-2522-19248" serverId="621" name="Die Todeskrallen" />
+<add realmId="gold-2522-19248" serverId="622" name="Doomhammer" />
+<add realmId="gold-2522-19248" serverId="623" name="Draenor" />
+<add realmId="gold-2522-19248" serverId="624" name="Dragonblight" />
+<add realmId="gold-2522-19248" serverId="625" name="Dragonmaw" />
+<add realmId="gold-2522-19248" serverId="626" name="Drak'thul" />
+<add realmId="gold-2522-19248" serverId="627" name="Drek'Thar" />
+<add realmId="gold-2522-19248" serverId="628" name="Dun Modr" />
+<add realmId="gold-2522-19248" serverId="629" name="Dun Morogh" />
+<add realmId="gold-2522-19248" serverId="630" name="Dunemaul" />
+<add realmId="gold-2522-19248" serverId="631" name="Durotan" />
+<add realmId="gold-2522-19248" serverId="632" name="Earthen Ring" />
+<add realmId="gold-2522-19248" serverId="633" name="Echsenkessel" />
+<add realmId="gold-2522-19248" serverId="634" name="Eitrigg" />
+<add realmId="gold-2522-19248" serverId="635" name="Eldre'Thalas" />
+<add realmId="gold-2522-19248" serverId="636" name="Elune" />
+<add realmId="gold-2522-19248" serverId="637" name="Emerald Dream" />
+<add realmId="gold-2522-19248" serverId="638" name="Emeriss" />
+<add realmId="gold-2522-19248" serverId="639" name="Eonar" />
+<add realmId="gold-2522-19248" serverId="640" name="Eredar" />
+<add realmId="gold-2522-19248" serverId="641" name="Executus" />
+<add realmId="gold-2522-19248" serverId="642" name="Exodar" />
+<add realmId="gold-2522-19248" serverId="643" name="Festung der Stürme" />
+<add realmId="gold-2522-19248" serverId="644" name="Forscherliga" />
+<add realmId="gold-2522-19248" serverId="645" name="Frostmane" />
+<add realmId="gold-2522-19248" serverId="646" name="Frostmourne" />
+<add realmId="gold-2522-19248" serverId="647" name="Frostwhisper" />
+<add realmId="gold-2522-19248" serverId="648" name="Frostwolf" />
+<add realmId="gold-2522-19248" serverId="649" name="Garona" />
+<add realmId="gold-2522-19248" serverId="650" name="Garrosh" />
+<add realmId="gold-2522-19248" serverId="651" name="Genjuros" />
+<add realmId="gold-2522-19248" serverId="652" name="Ghostlands" />
+<add realmId="gold-2522-19248" serverId="653" name="Gilneas" />
+<add realmId="gold-2522-19248" serverId="654" name="Gorgonnash" />
+<add realmId="gold-2522-19248" serverId="655" name="Grim Batol" />
+<add realmId="gold-2522-19248" serverId="656" name="Gul'dan" />
+<add realmId="gold-2522-19248" serverId="657" name="Hakkar" />
+<add realmId="gold-2522-19248" serverId="658" name="Haomarush" />
+<add realmId="gold-2522-19248" serverId="659" name="Hellfire" />
+<add realmId="gold-2522-19248" serverId="660" name="Hellscream" />
+<add realmId="gold-2522-19248" serverId="661" name="Hyjal" />
+<add realmId="gold-2522-19248" serverId="662" name="Illidan" />
+<add realmId="gold-2522-19248" serverId="663" name="Jaedenar" />
+<add realmId="gold-2522-19248" serverId="664" name="Kael'Thas" />
+<add realmId="gold-2522-19248" serverId="665" name="Karazhan" />
+<add realmId="gold-2522-19248" serverId="666" name="Kargath" />
+<add realmId="gold-2522-19248" serverId="667" name="Kazzak" />
+<add realmId="gold-2522-19248" serverId="668" name="Kel'Thuzad" />
+<add realmId="gold-2522-19248" serverId="669" name="Khadgar" />
+<add realmId="gold-2522-19248" serverId="670" name="Khaz Modan" />
+<add realmId="gold-2522-19248" serverId="671" name="Khaz'goroth" />
+<add realmId="gold-2522-19248" serverId="672" name="Kil'Jaeden" />
+<add realmId="gold-2522-19248" serverId="673" name="Kilrogg" />
+<add realmId="gold-2522-19248" serverId="674" name="Kirin Tor" />
+<add realmId="gold-2522-19248" serverId="675" name="Kor'gall" />
+<add realmId="gold-2522-19248" serverId="676" name="Krag'jin" />
+<add realmId="gold-2522-19248" serverId="677" name="Krasus" />
+<add realmId="gold-2522-19248" serverId="678" name="Kul Tiras" />
+<add realmId="gold-2522-19248" serverId="679" name="Kult  der Verdammten" />
+<add realmId="gold-2522-19248" serverId="680" name="La Croisade écarlate" />
+<add realmId="gold-2522-19248" serverId="681" name="Laughing Skull" />
+<add realmId="gold-2522-19248" serverId="682" name="Les Clairvoyants" />
+<add realmId="gold-2522-19248" serverId="683" name="Les Sentinelles" />
+<add realmId="gold-2522-19248" serverId="684" name="Lightbringer" />
+<add realmId="gold-2522-19248" serverId="685" name="Lightning's Blade" />
+<add realmId="gold-2522-19248" serverId="686" name="Lordaeron" />
+<add realmId="gold-2522-19248" serverId="687" name="Los Errantes" />
+<add realmId="gold-2522-19248" serverId="688" name="Lothar" />
+<add realmId="gold-2522-19248" serverId="689" name="Madmortem" />
+<add realmId="gold-2522-19248" serverId="690" name="Magtheridon" />
+<add realmId="gold-2522-19248" serverId="691" name="Mal'Ganis" />
+<add realmId="gold-2522-19248" serverId="692" name="Malfurion" />
+<add realmId="gold-2522-19248" serverId="693" name="Malorne" />
+<add realmId="gold-2522-19248" serverId="694" name="Malygos" />
+<add realmId="gold-2522-19248" serverId="695" name="Mannoroth" />
+<add realmId="gold-2522-19248" serverId="696" name="Marécagede Zangar" />
+<add realmId="gold-2522-19248" serverId="697" name="Mazrigos" />
+<add realmId="gold-2522-19248" serverId="698" name="Medivh" />
+<add realmId="gold-2522-19248" serverId="699" name="Minahonda" />
+<add realmId="gold-2522-19248" serverId="700" name="Moonglade" />
+<add realmId="gold-2522-19248" serverId="701" name="Mug'thol" />
+<add realmId="gold-2522-19248" serverId="702" name="Nagrand" />
+<add realmId="gold-2522-19248" serverId="703" name="Nathrezim" />
+<add realmId="gold-2522-19248" serverId="704" name="Naxxramas" />
+<add realmId="gold-2522-19248" serverId="705" name="Nazjatar" />
+<add realmId="gold-2522-19248" serverId="706" name="Nefarian" />
+<add realmId="gold-2522-19248" serverId="707" name="Nemesis" />
+<add realmId="gold-2522-19248" serverId="708" name="Neptulon" />
+<add realmId="gold-2522-19248" serverId="709" name="Ner'zhul" />
+<add realmId="gold-2522-19248" serverId="710" name="Nera'thor" />
+<add realmId="gold-2522-19248" serverId="711" name="Nethersturm" />
+<add realmId="gold-2522-19248" serverId="712" name="Nordrassil" />
+<add realmId="gold-2522-19248" serverId="713" name="Norgannon" />
+<add realmId="gold-2522-19248" serverId="714" name="Nozdormu" />
+<add realmId="gold-2522-19248" serverId="715" name="Onyxia" />
+<add realmId="gold-2522-19248" serverId="716" name="Outland" />
+<add realmId="gold-2522-19248" serverId="717" name="Perenolde" />
+<add realmId="gold-2522-19248" serverId="718" name="Proudmoore" />
+<add realmId="gold-2522-19248" serverId="719" name="Quel'Thalas" />
+<add realmId="gold-2522-19248" serverId="720" name="Ragnaros" />
+<add realmId="gold-2522-19248" serverId="721" name="Rajaxx" />
+<add realmId="gold-2522-19248" serverId="722" name="Rashgarroth" />
+<add realmId="gold-2522-19248" serverId="723" name="Ravencrest" />
+<add realmId="gold-2522-19248" serverId="724" name="Ravenholdt" />
+<add realmId="gold-2522-19248" serverId="725" name="Rexxar" />
+<add realmId="gold-2522-19248" serverId="726" name="Runetotem" />
+<add realmId="gold-2522-19248" serverId="727" name="Sanguino" />
+<add realmId="gold-2522-19248" serverId="728" name="Sargeras" />
+<add realmId="gold-2522-19248" serverId="729" name="Saurfang" />
+<add realmId="gold-2522-19248" serverId="730" name="Scarshield Legion" />
+<add realmId="gold-2522-19248" serverId="731" name="Sen'jin" />
+<add realmId="gold-2522-19248" serverId="732" name="Shadowsong" />
+<add realmId="gold-2522-19248" serverId="733" name="Shattered Halls" />
+<add realmId="gold-2522-19248" serverId="734" name="Shattered Hand" />
+<add realmId="gold-2522-19248" serverId="735" name="Shattrath" />
+<add realmId="gold-2522-19248" serverId="736" name="Shen'dralar" />
+<add realmId="gold-2522-19248" serverId="737" name="Silvermoon" />
+<add realmId="gold-2522-19248" serverId="738" name="Sinstralis" />
+<add realmId="gold-2522-19248" serverId="739" name="Skullcrusher" />
+<add realmId="gold-2522-19248" serverId="740" name="Spinebreaker" />
+<add realmId="gold-2522-19248" serverId="741" name="Sporeggar" />
+<add realmId="gold-2522-19248" serverId="742" name="Steamwheedle Cartel" />
+<add realmId="gold-2522-19248" serverId="743" name="Stormrage" />
+<add realmId="gold-2522-19248" serverId="744" name="Stormreaver" />
+<add realmId="gold-2522-19248" serverId="745" name="Stormscale" />
+<add realmId="gold-2522-19248" serverId="746" name="Sunstrider" />
+<add realmId="gold-2522-19248" serverId="747" name="Suramar" />
+<add realmId="gold-2522-19248" serverId="748" name="Sylvanas" />
+<add realmId="gold-2522-19248" serverId="749" name="Taerar" />
+<add realmId="gold-2522-19248" serverId="750" name="Talnivarr" />
+<add realmId="gold-2522-19248" serverId="751" name="Tarren Mill" />
+<add realmId="gold-2522-19248" serverId="752" name="Teldrassil" />
+<add realmId="gold-2522-19248" serverId="753" name="Templenoir" />
+<add realmId="gold-2522-19248" serverId="754" name="Terenas" />
+<add realmId="gold-2522-19248" serverId="755" name="Terokkar" />
+<add realmId="gold-2522-19248" serverId="756" name="Terrordar" />
+<add realmId="gold-2522-19248" serverId="757" name="The Maelstrom" />
+<add realmId="gold-2522-19248" serverId="758" name="The Sha'tar" />
+<add realmId="gold-2522-19248" serverId="759" name="The Venture Co." />
+<add realmId="gold-2522-19248" serverId="760" name="Theradras" />
+<add realmId="gold-2522-19248" serverId="761" name="Thrall" />
+<add realmId="gold-2522-19248" serverId="762" name="Throk'Feroth" />
+<add realmId="gold-2522-19248" serverId="763" name="Thunderhorn" />
+<add realmId="gold-2522-19248" serverId="764" name="Tichondrius" />
+<add realmId="gold-2522-19248" serverId="765" name="Tirion" />
+<add realmId="gold-2522-19248" serverId="766" name="Todeswache" />
+<add realmId="gold-2522-19248" serverId="767" name="Trollbane" />
+<add realmId="gold-2522-19248" serverId="768" name="Turalyon" />
+<add realmId="gold-2522-19248" serverId="769" name="Twilight's Hammer" />
+<add realmId="gold-2522-19248" serverId="770" name="Twisting Nether" />
+<add realmId="gold-2522-19248" serverId="771" name="Tyrande" />
+<add realmId="gold-2522-19248" serverId="772" name="Uldaman" />
+<add realmId="gold-2522-19248" serverId="773" name="Ulduar" />
+<add realmId="gold-2522-19248" serverId="774" name="Uldum" />
+<add realmId="gold-2522-19248" serverId="775" name="Un'Goro" />
+<add realmId="gold-2522-19248" serverId="776" name="Varimathras" />
+<add realmId="gold-2522-19248" serverId="777" name="Vashj" />
+<add realmId="gold-2522-19248" serverId="778" name="Vek'lor" />
+<add realmId="gold-2522-19248" serverId="779" name="Vek'nilash" />
+<add realmId="gold-2522-19248" serverId="780" name="Vol'jin" />
+<add realmId="gold-2522-19248" serverId="781" name="Well of Eternity" />
+<add realmId="gold-2522-19248" serverId="782" name="Wildhammer" />
+<add realmId="gold-2522-19248" serverId="783" name="Wrathbringer" />
+<add realmId="gold-2522-19248" serverId="784" name="Xavius" />
+<add realmId="gold-2522-19248" serverId="785" name="Ysera" />
+<add realmId="gold-2522-19248" serverId="786" name="Ysondre" />
+<add realmId="gold-2522-19248" serverId="787" name="Zenedar" />
+<add realmId="gold-2522-19248" serverId="788" name="Zirkel des Cenarius" />
+<add realmId="gold-2522-19248" serverId="789" name="Zul'Jin" />
+<add realmId="gold-2522-19248" serverId="790" name="Zuluhed" />
